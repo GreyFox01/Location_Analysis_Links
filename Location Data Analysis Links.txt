@@ -1,0 +1,27 @@
+Jeff jockisch, Senior Data privacy researcher at Avantis, offered me these links to educate anyone (including myself) on location data exploitation:
+
+Avantis research on location data broker industry:
+https://avantisprivacy.com/loco-4-location.html
+
+Avantis on how many data brokers exist--might interest your clients or scare them:
+https://avantisprivacy.com/the-data-broker-codex/
+
+LinkedIn Posts about Location Data:
+Inferences
+https://www.linkedin.com/posts/jozian_location-privacy-databrokers-activity-7129002521754263552-1TR6
+
+LinkedIn Posts on Pelosi Attack Data
+https://www.linkedin.com/posts/jozian_privacy-databrokers-security-activity-7131133929104773120-LNv4
+
+LinkedIn Posts on AI + Location
+https://www.linkedin.com/posts/jozian_privacy-locationdata-databroker-activity-7112637445711486976-_QYF
+
+LinkedIn Posts on Location Inference from Pics!
+https://www.linkedin.com/posts/jozian_location-privacy-socialmedia-activity-7086748443699752961-0gur
+
+LinkedIn Posts on Location via RTB
+https://www.linkedin.com/posts/jozian_adtech-rtb-adstream-activity-7130110305509990400-4isG
+
+LinkedIn Posts on Location research, stats
+https://www.linkedin.com/posts/jozian_your-ad-data-is-now-powering-government-surveillance-activity-7062439313195560960-5YS0
+
